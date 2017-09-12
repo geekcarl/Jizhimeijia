@@ -1,20 +1,18 @@
 {
-  "name": "Jizhimeijia",
-  "version": "1.0.0",
-  "description": "\"# Jizhimeijia\"",
-  "main": "index.js",
+  "name": "jizhimeijia",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zengxiangxin/Jizhimeijia.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zengxiangxin/Jizhimeijia/issues"
-  },
-  "homepage": "https://github.com/zengxiangxin/Jizhimeijia#readme"
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "mongoose": "^4.11.11",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  }
 }

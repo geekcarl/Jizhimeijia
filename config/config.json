@@ -1,0 +1,7 @@
+{
+    "db":"mongodb://120.24.91.182:27017/jizhimeijia",
+    "port":4000,
+    "version":"3.0.11",
+    "user":"zengxiangxin",
+    "passwd":"123456"
+  }
