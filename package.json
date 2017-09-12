@@ -1,0 +1,20 @@
+{
+  "name": "Jizhimeijia",
+  "version": "1.0.0",
+  "description": "\"# Jizhimeijia\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengxiangxin/Jizhimeijia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengxiangxin/Jizhimeijia/issues"
+  },
+  "homepage": "https://github.com/zengxiangxin/Jizhimeijia#readme"
+}
